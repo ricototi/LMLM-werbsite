@@ -39,7 +39,7 @@ export default function Home() {
   return (
     <>
       {/* HERO */}
-      <div className="hero">
+      <div className="hero kl">
         <p className="eyebrow">Richard Bélénus</p>
         <div className="hero-symbols">🔨 &nbsp; 🪞</div>
         <h1>
